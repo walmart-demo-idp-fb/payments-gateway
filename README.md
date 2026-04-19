@@ -1,2 +1,2 @@
 # payments-gateway
-Payment processing façade - tier-1
+Payment processing facade/front - tier-1
